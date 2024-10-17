@@ -1,0 +1,17 @@
+C:\Users\richa\source\repos\DiamondKata\DiamondKataTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\richa\source\repos\DiamondKata\DiamondKataTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\richa\source\repos\DiamondKata\DiamondKataTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\richa\source\repos\DiamondKata\DiamondKataTests\bin\Debug\netcoreapp2.1\DiamondKataTests.deps.json
+C:\Users\richa\source\repos\DiamondKata\DiamondKataTests\bin\Debug\netcoreapp2.1\DiamondKataTests.runtimeconfig.json
+C:\Users\richa\source\repos\DiamondKata\DiamondKataTests\bin\Debug\netcoreapp2.1\DiamondKataTests.runtimeconfig.dev.json
+C:\Users\richa\source\repos\DiamondKata\DiamondKataTests\bin\Debug\netcoreapp2.1\DiamondKataTests.dll
+C:\Users\richa\source\repos\DiamondKata\DiamondKataTests\bin\Debug\netcoreapp2.1\DiamondKataTests.pdb
+C:\Users\richa\source\repos\DiamondKata\DiamondKataTests\bin\Debug\netcoreapp2.1\DiamondKata.dll
+C:\Users\richa\source\repos\DiamondKata\DiamondKataTests\bin\Debug\netcoreapp2.1\DiamondKata.pdb
+C:\Users\richa\source\repos\DiamondKata\DiamondKataTests\obj\Debug\netcoreapp2.1\DiamondKataTests.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\DiamondKata\DiamondKataTests\obj\Debug\netcoreapp2.1\DiamondKataTests.csproj.CoreCompileInputs.cache
+C:\Users\richa\source\repos\DiamondKata\DiamondKataTests\obj\Debug\netcoreapp2.1\DiamondKataTests.AssemblyInfoInputs.cache
+C:\Users\richa\source\repos\DiamondKata\DiamondKataTests\obj\Debug\netcoreapp2.1\DiamondKataTests.AssemblyInfo.cs
+C:\Users\richa\source\repos\DiamondKata\DiamondKataTests\obj\Debug\netcoreapp2.1\DiamondKataTests.csproj.CopyComplete
+C:\Users\richa\source\repos\DiamondKata\DiamondKataTests\obj\Debug\netcoreapp2.1\DiamondKataTests.dll
+C:\Users\richa\source\repos\DiamondKata\DiamondKataTests\obj\Debug\netcoreapp2.1\DiamondKataTests.pdb

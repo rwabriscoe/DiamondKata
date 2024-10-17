@@ -1,0 +1,11 @@
+C:\Users\richa\source\repos\DiamondKata\DiamondKata\bin\Debug\netcoreapp2.1\DiamondKata.deps.json
+C:\Users\richa\source\repos\DiamondKata\DiamondKata\bin\Debug\netcoreapp2.1\DiamondKata.runtimeconfig.json
+C:\Users\richa\source\repos\DiamondKata\DiamondKata\bin\Debug\netcoreapp2.1\DiamondKata.runtimeconfig.dev.json
+C:\Users\richa\source\repos\DiamondKata\DiamondKata\bin\Debug\netcoreapp2.1\DiamondKata.dll
+C:\Users\richa\source\repos\DiamondKata\DiamondKata\bin\Debug\netcoreapp2.1\DiamondKata.pdb
+C:\Users\richa\source\repos\DiamondKata\DiamondKata\obj\Debug\netcoreapp2.1\DiamondKata.csproj.CoreCompileInputs.cache
+C:\Users\richa\source\repos\DiamondKata\DiamondKata\obj\Debug\netcoreapp2.1\DiamondKata.AssemblyInfoInputs.cache
+C:\Users\richa\source\repos\DiamondKata\DiamondKata\obj\Debug\netcoreapp2.1\DiamondKata.AssemblyInfo.cs
+C:\Users\richa\source\repos\DiamondKata\DiamondKata\obj\Debug\netcoreapp2.1\DiamondKata.dll
+C:\Users\richa\source\repos\DiamondKata\DiamondKata\obj\Debug\netcoreapp2.1\DiamondKata.pdb
+C:\Users\richa\source\repos\DiamondKata\DiamondKata\obj\Debug\netcoreapp2.1\DiamondKata.csprojAssemblyReference.cache
